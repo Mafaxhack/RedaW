@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/C9wQOe7.png"width="100px" alt="Microbit Logo"/>
+  <img src=""width="100px" alt="Microbit Logo"/>
 </div>
 
 <h2 align="center"><strong>Redação Destroyer</strong></h2>
